@@ -1,0 +1,3 @@
+This is line 1, field 1 of File2.txt;This is line 1, field 2 of File2.txt;This is line 1, field 3 of File2.txt
+This is line 2, field 1 of File2.txt;This is line 2, field 2 of File2.txt;This is line 2, field 3 of File2.txt
+This is line 3, field 1 of File2.txt;This is line 3, field 2 of File2.txt;This is line 3, field 3 of File2.txt

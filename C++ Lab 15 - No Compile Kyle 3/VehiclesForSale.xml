@@ -1,0 +1,44 @@
+<vehicles>
+    <vehicle>
+        <make>Ford</make>
+        <model>Taurus</model>
+        <year>2010</year>
+        <price>7000</price>
+    </vehicle>
+    <vehicle>
+        <make>Honda</make>
+        <model>Civic</model>
+        <year>2013</year>
+        <price>10500</price>
+    </vehicle>
+    <vehicle>
+        <make>Toyota</make>
+        <model>RAV4</model>
+        <year>2008</year>
+        <price>11000</price>
+    </vehicle>
+    <vehicle>
+        <make>Ford</make>
+        <model>F-150</model>
+        <year>2019</year>
+        <price>42000</price>
+    </vehicle>
+    <vehicle>
+        <make>Kia</make>
+        <model>Sorento</model>
+        <year>2020</year>
+        <price>27000</price>
+    </vehicle>
+    <vehicle>
+        <make>Toyota</make>
+        <model>Corolla</model>
+        <year>2016</year>
+        <price>15000</price>
+    </vehicle>
+    <vehicle>
+        <make>Hyundai</make>
+        <model>Santa Fe</model>
+        <year>2007</year>
+        <price>5500</price>
+    </vehicle>
+</vehicles>
